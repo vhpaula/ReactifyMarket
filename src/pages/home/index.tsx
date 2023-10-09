@@ -37,7 +37,6 @@ export function Home() {
     const [currentPage, setCurrentPage] = useState(1);
     const [itemsPerPage, setItemsPerPage] = useState(8); // Número de produtos por página
     const [indexOfLastItem, setIndexOfLastItem] = useState(1);
-    const [indexOfFirstItem, setIndexOfFirstItem] = useState(1);
     const [categoryFilter, setCategoryFilter] = useState("");
     const pageNumbers: number[] = [];
 
@@ -69,7 +68,6 @@ export function Home() {
         );
 
         setIndexOfLastItem(indexOfLastItemCurrent);
-        setIndexOfFirstItem(indexOfFirstItemCurrent);
         setCurrentProducts(slicedProducts);
 
         // Lógica para criar os números das páginas
