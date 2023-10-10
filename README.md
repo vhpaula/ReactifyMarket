@@ -33,6 +33,7 @@ Os usuários podem clicar no carrinho para acessar a rota "/cart", onde podem vi
 
 O layout do aplicativo foi criado com base em um design do usuário chamado @kiritgoti, disponível no Figma através do link: [Layout do ReactifyMarket](https://www.figma.com/community/file/1206898292713093171).
 
+Acesse e navegue pelo projeto através do link: [Visite o projeto online](https://reactify-market.vercel.app/)
 <br>
 <br>
 
