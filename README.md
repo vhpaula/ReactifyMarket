@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-   <img alt="ReactifyMarket Preview" src="./.github/preview.png" width="100%">
+   <img alt="ReactifyMarket Preview" src="https://github.com/vhpaula/ReactifyMarket/blob/main/.github/preview.png?raw=true" width="100%">
 </p>
 
 <br>
